@@ -9,7 +9,7 @@ Mod for Yars Rising to remove converstion dialog popups
 
 3. Run Yars Rising once to setup BepInEx
    
-4. [Optional] to enable the BepInEx terminal open BepInEx.cfg in BepInEx\config and under [Logging.Console] change 'Enabled = false' to 'Enabled = true'. In addition under [Logging] change 'UnityLogListening = true' to 'UnityLogListening = false' to prevent the Yars unity log messages from flooding the terminal
+4. [Optional] to enable the BepInEx terminal open BepInEx.cfg in BepInEx\config and under [Logging.Console] change "Enabled = false" to "Enabled = true". In addition under [Logging] change "UnityLogListening = true" to "UnityLogListening = false" to prevent the Yars unity log messages from flooding the terminal
 
 5. Download the latest release zip file from [here](https://github.com/Zopheoma/YarsRisingDialogSkip/releases)
 
