@@ -2,7 +2,7 @@
 Mod for Yars Rising to remove converstion dialog popups
 
 <h1>Setup Instructions</h1>
-1. Download the latest X64 version of BepInEx from [here](https://github.com/BepInEx/BepInEx/releases)
+1. Download the latest X64 version of BepInEx from https://github.com/BepInEx/BepInEx/releases
 
 2. Extract the contents of the BepInEX zip in to
    - With Steam, this folder cane be located by right clicking Yars Rising in the steam library and selecting "Manage -> Browse local files"
